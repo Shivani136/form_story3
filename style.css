@@ -1,0 +1,28 @@
+
+
+
+body{
+    background-color: orange;
+    text-align: center;
+}
+#top{
+    background-color: lightblue;
+    padding: 5px;
+    margin-top: 0;
+    margin-bottom: auto;
+    margin-left: 150px;
+    margin-right:150px;
+    padding-bottom: 25px;
+    border-radius: 25px;
+}
+
+form{
+  background-color: white;
+    padding: 5px;
+    margin-top: 0;
+    margin-bottom: auto;
+    margin-left: 150px;
+    margin-right:150px;
+    border-radius: 25px;
+}
+
